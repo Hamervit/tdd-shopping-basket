@@ -1,0 +1,11 @@
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\bin\Debug\net9.0\Shopping.Basket.Domain.deps.json
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\obj\Debug\net9.0\Shopping.Basket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\obj\Debug\net9.0\Shopping.Basket.Domain.AssemblyInfoInputs.cache
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\obj\Debug\net9.0\Shopping.Basket.Domain.AssemblyInfo.cs
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\bin\Debug\net9.0\Shopping.Basket.Domain.dll
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\bin\Debug\net9.0\Shopping.Basket.Domain.pdb
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\obj\Debug\net9.0\Shopping.Basket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\obj\Debug\net9.0\Shopping.Basket.Domain.dll
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\obj\Debug\net9.0\refint\Shopping.Basket.Domain.dll
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\obj\Debug\net9.0\Shopping.Basket.Domain.pdb
+C:\Users\harold.mercado\RiderProjects\ShoppingBasket\Shopping.Basket.Domain\obj\Debug\net9.0\ref\Shopping.Basket.Domain.dll
